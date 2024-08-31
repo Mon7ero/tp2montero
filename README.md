@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Desarrollo Web**
 
-- 👨‍💻 All of my projects design are available at [behance.net/mon7erodesign](behance.net/mon7erodesign)
+- 👨‍💻 Some of my design projects in [behance.net/mon7erodesign](behance.net/mon7erodesign)
 
 - 📫 How to reach me **monteropablojavier@gmail.com**
 
