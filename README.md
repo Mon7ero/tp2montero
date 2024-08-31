@@ -1,9 +1,10 @@
-<h1 align="center">Hola 👋, soy Mon7ero</h1>
+<h1 align="center">Hola 👋, soy Mon7ero Pablo</h1>
+
 - 🔭 Actualmente estoy trabajando en **Git Hub**
 
 - 🌱 Actualmente estoy aprendiendo **Desarrollo Web**
 
-- 👨‍💻 Todos mis proyectos están disponibles en [behance.net/mon7erodesign](behance.net/mon7erodesign)
+- 👨‍💻 Algunos proyectos de Diseño en [behance.net/mon7erodesign](behance.net/mon7erodesign)
 
 - 📫 Cómo contactarme **monteropablojavier@gmail.com**
 
