@@ -34,6 +34,10 @@
     background-color: rgb(20, 20, 20);
 }
 
+.subtitulocentrado2{
+    text-align: center;
+}
+
 .subtitulo{
     text-align: center;
     color: rgb(250, 250, 250);
