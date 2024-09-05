@@ -6,6 +6,21 @@
     width: 100%;
 }
 
+.fondo{
+    background-image:url(../img/fondo.png) ;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    width: 100%;
+
+}
+
+.maidenpng{
+    width: 300px;
+    position: relative;
+
+}
+
 .titulo{
     text-align: center;
     color: rgb(250, 250, 250);
@@ -40,14 +55,6 @@
     padding: 10px;
 }
 
-.contenedor2{
-
-    display: flex;
-    justify-content: space-evenly;
-    flex-wrap: wrap;
-    padding: 10px;
-}
-
 footer {
     background-color: #503c44;
     text-align: center;
@@ -64,7 +71,7 @@ footer {
 }
 
 
-@media screen and (max-width: 768px){
+@media screen and (max-width: 900px){
 
     body { 
     background: url("../img/fondoescenario.jpg");
@@ -72,4 +79,6 @@ footer {
     background-size: cover;
     background-attachment: fixed; 
     }
+
+
 }
